@@ -1,0 +1,76 @@
+{
+  "data" : [
+    {
+    "id": 1,
+    "name": "SOMMARLÅNKE 솜말롱케",
+    "info": "LED 장식용 탁상스탠드, 17 cm",
+    "price": 34900,
+    "img": "https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-beige-battery-operated-outdoor__1182997_pe897390_s5.jpg",
+    "category": "light"
+    },
+    {
+    "id": 2,
+    "name": "RÅSKOG 로스코그",
+    "info": "카트, 옐로, 35x45x78 cm",
+    "price": 44900,
+    "img": "https://www.ikea.com/kr/ko/images/products/raskog-trolley-yellow__1029514_pe835875_s5.jpg",
+    "category": "kitchen"
+    },
+    {
+    "id":3,
+    "name": "PÅDRAG 포드라그",
+    "info": "꽃병, 유리, 17 cm",
+    "price": 3000,
+    "img": "https://www.ikea.com/kr/ko/images/products/padrag-vase-clear-glass__0941050_pe795311_s5.jpg",
+    "category": "homedeco"
+    },
+    {
+    "id":4,
+    "name": "SOMMARLÅNKE 솜말롱케",
+    "info": "LED 장식용 탁상스탠드, 랜턴 실외용/배터리식 라이트블루, 17 cm",
+    "price": 19900,
+    "img": "https://www.ikea.com/kr/ko/images/products/sommarlanke-led-decorative-table-lamp-lantern-outdoor-battery-operated-light-blue__1149210_pe883906_s5.jpg",
+    "category": "light"
+    },
+    {
+    "id":5,
+    "name": "SMYCKA 스뮈카",
+    "info": "조화, 유칼립투스/핑크, 30 cm",
+    "price": 1200,
+    "img": "https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-eucalyptus-pink__0903064_pe685442_s5.jpg",
+    "category": "homedeco"
+    },
+    {
+    "id":6,
+    "name": "SOMMARÖGA 솜마뢰가",
+    "info": "2단서빙스탠드, 라이트그레이베이지",
+    "price": 24900,
+    "img": "https://www.ikea.com/kr/ko/images/products/sommaroega-serving-stand-two-tiers-light-grey-beige__1199817_pe904697_s5.jpg",
+    "category": "kitchen"
+    },
+    {
+    "id":7,
+    "name": "SMYCKA 스뮈카",
+    "info": "조화, 실내외겸용/양귀비 오렌지, 60 cm",
+    "price": 3500,
+    "img": "https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-in-outdoor-poppy-orange__0967126_pe810061_s5.jpg",
+    "category": "homedeco"
+    },
+    {
+    "id":8,
+    "name": "SMYCKA 스뮈카",
+    "info": "조화, 스위트피/화이트, 60 cm",
+    "price": 3900,
+    "img": "https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-sweet-pea-white__0903580_pe685451_s5.jpg",
+    "category": "homedeco"
+    },
+    {
+    "id":9,
+    "name": "GLADELIG 글라델리그",
+    "info": "파스타접시, 그레이, 21 cm",
+    "price": 19900,
+    "img": "https://www.ikea.com/kr/ko/images/products/gladelig-deep-plate-grey__0908577_pe783310_s5.jpg",
+    "category": "kitchen"
+    }
+  ]
+}
